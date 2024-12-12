@@ -8,10 +8,10 @@ public class HolaMundo {
 		String nombre = scanner.nextLine();
 		System.out.println("¡Hola, " + nombre + "! Bienvenido a Java.");
 		System.out.println("Hola");
-		System.out.println("Modificación realizada por un colaborador desde github ");
+		System.out.println("Cambio realizado después de hacer el pull");
 		}
-	/*Modificación realizada por un colaborador desde github*/
-/*MODIFICADO*/
-	/*Cambio realizado desde rama desarrollo*/
-	/*“Comentario después derealizar fusión”,*/
+		/*Modificación realizada por un colaborador desde github*/
+		/*MODIFICADO*/
+		/*Cambio realizado desde rama desarrollo*/
+		/*“Comentario después derealizar fusión”,*/
 }
