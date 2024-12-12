@@ -7,6 +7,7 @@ public class HolaMundo {
 		System.out.print("Ingresa tu nombre: ");
 		String nombre = scanner.nextLine();
 		System.out.println("¡Hola, " + nombre + "! Bienvenido a Java.");
+		System.out.println("Hola");
 		}
 /*MODIFICADO*/
 	/*Cambio realizado desde rama desarrollo*/
